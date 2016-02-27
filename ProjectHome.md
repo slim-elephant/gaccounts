@@ -1,0 +1,1 @@
+A Open Source clone of the popular Indian accounting software Tally. This project will be coded using GTKmm and Gnome Libraries.
